@@ -1,0 +1,56 @@
+body {
+    background-color: gray;
+    color:gray;
+    width: 100%;
+    max-width: 960px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+header, nav, footer {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 20px;
+}
+div {
+    margin-bottom: 20px;
+}
+section {
+    margin: 10px;
+    height: 300px;
+    padding: 20px;
+    float: left;
+    width: 495px;
+    background-color: lightgray;
+}
+
+aside {
+    float: right;
+    padding: 20px;
+    height: 300px;
+    margin: 10px;
+    background-color: lightgray;
+    width: 340px;
+}
+
+article{
+    background-color: gray;
+    color: lightgray;
+    height: 230px;
+    padding: 20px;
+}
+
+h1, p {
+    background-color: lightgray;
+    margin: 10px;
+    color: gray;
+    padding: 20px;
+}
+
+footer {
+    margin-top: 100px;
+    clear: both;
+}
